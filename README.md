@@ -25,8 +25,14 @@ This project prints and generates multiplication tables using two separate funct
 🌟Sort List in Ascending and Descending Order
 This project allows the user to input five numbers, stores them in a list, and then sorts the list in both ascending and descending order. The functions are organized in the list_sorter.py module, and called from Main.py.
 ------------------------------------------------------------------------------
-🌟
-
+🌟Validate Email 
+This repository contains a Python module for validating user inputs such as names and emails. The module offers two modes:
+Simple Validation: Checks for a valid name and email.
+Full Validation: Validates both first and last names, along with a more detailed email structure check.
+Use the Main.py file to choose the desired input method and validate the user data.
+------------------------------------------------------------------------------
+🌟User Login Validation(Password)
+validates user login username is valid and verifies the password for the given user. If the username or password is incorrect, an appropriate message is displaye
 
 
 
