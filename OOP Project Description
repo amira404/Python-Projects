@@ -1,0 +1,52 @@
+OOP Project :
+✅ What is Required?
+This is a mini-project from a Python Programming Fundamentals course. The tasks are divided into labs, and you are asked to:
+
+🔧 Create 4 Main Classes:
+Person, Employee (inherits from Person), Car, Office
+
+🎯 Objectives per Class:
+🔹 Person class:
+-Attributes: name, money, mood, healthRate
+-Methods: sleep(hours), eat(meals), buy(items)
+
+🔹 Employee class:
+-Inherits from Person
+-Attributes: id, car, email, salary, distanceToWork
+-Methods: work(hours), drive(distance), refuel(gasAmount), send_mail(to, subject, body)
+
+🔹 Car class:
+-Attributes: name, fuelRate, velocity
+-Methods: run(velocity, distance), stop()
+-Properties validation:
+-velocity must be between 0–200
+-fuelRate must be between 0–100
+
+🔹 Office class:
+Attributes: name, employees (list)
+
+🔹Methods:
+-get_all_employees()
+-get_employee(empId)
+-hire(employee)
+-fire(empId)
+-deduct(empId, amount)
+-reward(empId, amount)
+-check_lateness(empId, moveHour)
+-calculate_lateness(targetHour, moveHour, distance, velocity) (static method)
+-Class Variables & Methods:
+-employeesNum — total employees
+-change_emps_num(num) — modify employee count
+
+🧪 Required Functionality / Testing:
+ simulate a real-life story:
+
+1-Samy is an employee with a Fiat 128 car.
+2-He works at ITI Smart Village (an Office object).
+3-He drives 20 km daily.
+4-He must arrive before 9:00 AM, otherwise, he's marked as late.
+5-Based on his arrival, either a reward or deduction is applied.
+6-The Car consumes 10% fuel for each 10 km.
+
+
+
