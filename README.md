@@ -15,6 +15,10 @@ Run main.py and choose which pattern to print by entering 1 or 2 when prompted.
 ------------------------------------------------------------------------------
 🌟counts the number of vowels 
 This project counts the number of vowels in a given string using a function in a separate module (vowel_counter.py) and calls it from Main.py.
+------------------------------------------------------------------------------
+🌟Find Index of Character 'i' or 'I' in a String
+This project finds all positions of the letter 'i' or 'I' in a given string using a separate function in find_i_index.py and calls it from Main.py.
+
 
 
 
