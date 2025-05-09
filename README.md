@@ -1,3 +1,4 @@
+##Amira Muhammad
 🌟 Python Mini Projects Collection
 This repository contains a collection of educational Python mini-projects created as part of the Python Programming Fundamentals course at ITI (Information Technology Institute), under the guidance of Eng. Omar Shaqra. Each project is designed to demonstrate essential programming concepts, modularity, and code reusability.
 
