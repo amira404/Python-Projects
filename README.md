@@ -18,6 +18,14 @@ This project counts the number of vowels in a given string using a function in a
 ------------------------------------------------------------------------------
 🌟Find Index of Character 'i' or 'I' in a String
 This project finds all positions of the letter 'i' or 'I' in a given string using a separate function in find_i_index.py and calls it from Main.py.
+------------------------------------------------------------------------------
+🌟Generate and Display Multiplication Tables
+This project prints and generates multiplication tables using two separate functions inside multiplication_table.py, called from Main.py.
+------------------------------------------------------------------------------
+🌟Sort List in Ascending and Descending Order
+This project allows the user to input five numbers, stores them in a list, and then sorts the list in both ascending and descending order. The functions are organized in the list_sorter.py module, and called from Main.py.
+------------------------------------------------------------------------------
+🌟
 
 
 
