@@ -13,5 +13,8 @@ main.py: Provides a simple interface to choose and run a pattern.
 ▶️ Usage
 Run main.py and choose which pattern to print by entering 1 or 2 when prompted.
 ------------------------------------------------------------------------------
-🌟
+🌟counts the number of vowels 
+This project counts the number of vowels in a given string using a function in a separate module (vowel_counter.py) and calls it from Main.py.
+
+
 
